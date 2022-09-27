@@ -31,7 +31,7 @@
 - [x] Realizar compras com a API do Stripe
 
 ### 💻 Demonstração
-<img src="https://github.com/gabriel-nt/coffee-delivery/blob/master/src/assets/cover.png" alt="Imagem de demonstração" />
+<img src="https://github.com/gabriel-nt/ignite-shop/blob/main/src/assets/cover.png" alt="Imagem de demonstração" />
 
 ### ⚙ Pré-requisitos
 
